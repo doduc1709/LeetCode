@@ -1,3 +1,4 @@
 # LeetCode
-Một bài LeetCode mỗi ngày
+Một bài LeetCode mỗi ngày,
+
 ____Ngày 1: Two Sum____
