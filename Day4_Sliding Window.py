@@ -9,7 +9,6 @@ def max_sum_subarray(nums, k):
         max_sum = max(max_sum, window_sum)
     
     return max_sum
-
 print(max_sum_subarray([2, 1, 5, 1, 3, 2], 3))
 
 #Bài tập áp dụng 
@@ -23,3 +22,15 @@ class Solution:
             window_sum = window_sum - nums[i - k] + nums[i]
             max_sum = max(max_sum, window_sum)
         return max_sum / k 
+
+#1876: Substrings of Size Three with Distinct Characters
+class Solution:
+    def countGoodSubstrings(self, s):
+        count = 0
+        
+        for i in range(len(s) - 2):
+            window = s[i : i + 3]      # lấy đoạn con 3 ký tự bắt đầu từ i
+            
+            if len(set(window)) == 3:
+                count += 1
+        return count
