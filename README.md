@@ -13,6 +13,8 @@ ____Ngày 5: (Sliding Window) Làm bài #643 và #1876.____,
 
 ____Ngày 6: Ôn tập lại 4 phương pháp, áp dụng vào bài (#219).____,
 
+____Ngày 7: Rest.____,
+
 ____
 
 
