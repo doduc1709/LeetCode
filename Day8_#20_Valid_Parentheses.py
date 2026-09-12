@@ -13,5 +13,4 @@ class Solution:
             else:
                 # char là ngoặc mở
                 stack.append(char)
-        
         return not stack # điền nốt điều kiện cuối
