@@ -15,6 +15,8 @@ ____Ngày 6: Ôn tập lại 4 phương pháp, áp dụng vào bài (#219).____,
 
 ____Ngày 7: Rest.____,
 
+____Ngày 8: Valid Parentheses(#20), dùng stack().____,
+
 ____
 
 
