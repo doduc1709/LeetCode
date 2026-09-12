@@ -1,5 +1,5 @@
 # LeetCode
-Một bài LeetCode mỗi ngày, đây là repo tớ luyện leetcode mỗi ngày 1 chút với AI, cảm ơn bạn ghé qua.
+Một bài LeetCode mỗi ngày, đây là repo tớ luyện leetcode mỗi ngày 1 chút với AI, cảm ơn bạn ghé qua. 
 
 ____Ngày 1: twoSum(#1): Vét cạn - Brute-Force.____,
 
